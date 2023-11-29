@@ -1,0 +1,16 @@
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\bin\Debug\net8.0-android\CoverletSourceRootsMapping
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\obj\Debug\net8.0-android\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\obj\Debug\net8.0-android\build.props
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\obj\Debug\net8.0-android\adb.props
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\obj\Debug\net8.0-android\UnitTest.csproj.AssemblyReference.cache
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\obj\Debug\net8.0-android\libraryprojectimports.cache
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\obj\Debug\net8.0-android\stamp\_BuildLibraryImportsCache.stamp
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\obj\Debug\net8.0-android\__Microsoft.Android.Resource.Designer.cs
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\obj\Debug\net8.0-android\res.flag
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\obj\Debug\net8.0-android\R.txt
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\obj\Debug\net8.0-android\_Microsoft.Android.Resource.Designer.dll
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\obj\Debug\net8.0-android\R.cs.flag
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\obj\Debug\net8.0-android\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\obj\Debug\net8.0-android\UnitTest.AssemblyInfoInputs.cache
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\obj\Debug\net8.0-android\UnitTest.AssemblyInfo.cs
+D:\source\MAUIClassLiabraryUnitTest\MAUIClassLiabraryUnitTest\UnitTest\obj\Debug\net8.0-android\UnitTest.csproj.CoreCompileInputs.cache

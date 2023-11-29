@@ -1,0 +1,12 @@
+/Users/orange/Projects/MAUIClassLiabraryUnitTest/MAUIClassLiabraryUnitTest/bin/Debug/net7.0/MAUIClassLiabraryUnitTest.deps.json
+/Users/orange/Projects/MAUIClassLiabraryUnitTest/MAUIClassLiabraryUnitTest/bin/Debug/net7.0/MAUIClassLiabraryUnitTest.dll
+/Users/orange/Projects/MAUIClassLiabraryUnitTest/MAUIClassLiabraryUnitTest/bin/Debug/net7.0/MAUIClassLiabraryUnitTest.pdb
+/Users/orange/Projects/MAUIClassLiabraryUnitTest/MAUIClassLiabraryUnitTest/obj/Debug/net7.0/MAUIClassLiabraryUnitTest.csproj.AssemblyReference.cache
+/Users/orange/Projects/MAUIClassLiabraryUnitTest/MAUIClassLiabraryUnitTest/obj/Debug/net7.0/MAUIClassLiabraryUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orange/Projects/MAUIClassLiabraryUnitTest/MAUIClassLiabraryUnitTest/obj/Debug/net7.0/MAUIClassLiabraryUnitTest.AssemblyInfoInputs.cache
+/Users/orange/Projects/MAUIClassLiabraryUnitTest/MAUIClassLiabraryUnitTest/obj/Debug/net7.0/MAUIClassLiabraryUnitTest.AssemblyInfo.cs
+/Users/orange/Projects/MAUIClassLiabraryUnitTest/MAUIClassLiabraryUnitTest/obj/Debug/net7.0/MAUIClassLiabraryUnitTest.csproj.CoreCompileInputs.cache
+/Users/orange/Projects/MAUIClassLiabraryUnitTest/MAUIClassLiabraryUnitTest/obj/Debug/net7.0/MAUIClassLiabraryUnitTest.dll
+/Users/orange/Projects/MAUIClassLiabraryUnitTest/MAUIClassLiabraryUnitTest/obj/Debug/net7.0/refint/MAUIClassLiabraryUnitTest.dll
+/Users/orange/Projects/MAUIClassLiabraryUnitTest/MAUIClassLiabraryUnitTest/obj/Debug/net7.0/MAUIClassLiabraryUnitTest.pdb
+/Users/orange/Projects/MAUIClassLiabraryUnitTest/MAUIClassLiabraryUnitTest/obj/Debug/net7.0/ref/MAUIClassLiabraryUnitTest.dll

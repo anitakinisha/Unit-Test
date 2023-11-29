@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-android33.0": {},
+    "net7.0-android33.0/android-arm": {},
+    "net7.0-android33.0/android-arm64": {},
+    "net7.0-android33.0/android-x64": {},
+    "net7.0-android33.0/android-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0-android33.0": []
+  },
+  "packageFolders": {
+    "/Users/orange/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/orange/Projects/MsTest12/MsTest12/MsTest12.csproj",
+      "projectName": "MsTest12",
+      "projectPath": "/Users/orange/Projects/MsTest12/MsTest12/MsTest12.csproj",
+      "packagesPath": "/Users/orange/.nuget/packages/",
+      "outputPath": "/Users/orange/Projects/MsTest12/MsTest12/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/orange/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-android"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-android33.0": {
+          "targetAlias": "net7.0-android",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-android33.0": {
+        "targetAlias": "net7.0-android",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.Android": {
+            "privateAssets": "all"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "android-arm": {
+        "#import": []
+      },
+      "android-arm64": {
+        "#import": []
+      },
+      "android-x64": {
+        "#import": []
+      },
+      "android-x86": {
+        "#import": []
+      }
+    }
+  }
+}

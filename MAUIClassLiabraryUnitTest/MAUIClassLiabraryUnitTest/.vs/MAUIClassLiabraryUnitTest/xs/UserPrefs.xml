@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{0F98A17B-2779-4196-A1AA-0697460FED65}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTest/UnitTest1.cs">
+    <Files>
+      <File FileName="MAUIClassLiabraryUnitTest/Class1.cs" />
+      <File FileName="UnitTest/UnitTest1.cs" Line="22" Column="1" />
+      <File FileName="MAUIClassLiabraryUnitTest/MAUIClassLiabraryUnitTest.csproj" Line="6" Column="3" />
+      <File FileName="UnitTest/UnitTest.csproj" />
+      <File FileName="MAUIClassLiabraryUnitTest/Platforms/Android/PlatformClass1.cs" />
+      <File FileName="MAUIClassLiabraryUnitTest/Platforms/Android/MainActivity.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MAUIClassLiabraryUnitTest" expanded="True">
+            <Node name="MAUIClassLiabraryUnitTest" expanded="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True">
+                  <Node name="Resources" expanded="True">
+                    <Node name="layout" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="ViewModel" expanded="True" />
+            </Node>
+            <Node name="UnitTest" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MAUIClassLiabraryUnitTest" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MAUIClassLiabraryUnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.UnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
